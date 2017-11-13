@@ -3,7 +3,7 @@
 <p>Lemipc est un projet réalisé au sein d'Epitech Bordeaux</p>
 <p>Lemipc is a project shcool realised at Epitech</p>
 <p>Dates : 14 March 2016 to 27 March 2016<br/>
-Module : Unix System - Concurrencies</p>
+Module : Unix System - Concurrency</p>
 
 <p>Project :<br/>
 <!--Il s'agit d'un exercice visant à maîtriser les mémoires partagées, message queues et sémaphores entre plusieurs<br/>
