@@ -1,6 +1,6 @@
 # lemipc
 
-<p>Lemipc est un projet réalisé au sein d'Epitech Bordeaux</p>
+<!--<p>Lemipc est un projet réalisé au sein d'Epitech Bordeaux</p>-->
 <p>Lemipc is a project shcool realised at Epitech</p>
 <p>Dates : 14 March 2016 to 27 March 2016<br/>
 Module : Unix System - Concurrency</p>
