@@ -13,6 +13,11 @@ If an robot is circled by 2 robot enemies, it dies.<br/>
 Each robot in ame team can speak each other with a message queue.</p>
 
 <h3>Technologies :</h3>
-<h3>The program is entirely written in C Linux</p>
+<p>The program is entirely written in C Linux</p>
+
+<h3>Used Libraries :</h3>
+<ul>
+  <li>Standard C Lib Linux</li>
+</ul>
 
 
